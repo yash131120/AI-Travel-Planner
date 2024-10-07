@@ -1,5 +1,5 @@
 import { View, Text } from "react-native";
-import React, { useState } from "react";
+import { useState } from "react";
 import { Colors } from "./../../constants/Colors";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import StartNewTripCard from "../../components/MyTrips/StartNewTripCard";
